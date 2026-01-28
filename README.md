@@ -80,21 +80,6 @@ The system follows a **dual-branch hybrid architecture**:
 - Google Colab (GPU support)
 ---
 
-## 📁 Repository Structure
-```
-├── data/               # Dataset directories (ignored in git)
-├── notebooks/          # Jupyter notebooks
-├── src/                # Source code
-├── results/            # Evaluation results and plots
-├── docs/               # Paper and PPTs
-├── demo/               # Demo scripts
-├── requirements.txt
-├── .gitignore
-└── README.md
-```
-
----
-
 ## 👩‍💻 Team
 - **B Sai Swaroop**
 - **Mythri J Reddy** 
