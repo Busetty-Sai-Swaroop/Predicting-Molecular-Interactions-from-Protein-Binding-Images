@@ -109,7 +109,3 @@ This project is licensed under the **MIT License**.
 - Incorporating molecular dynamics and attention-based fusion  
 - Extending predictions to binding affinity estimation  
 - Improving generalization using advanced data augmentation  
-
----
-
-⭐ *If you find this project useful, feel free to star the repository.*
